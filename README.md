@@ -1,3 +1,7 @@
+# DOMINIO PÚBLICO
+
+Consulta cómo va la web en [nuestra web](https://xeiflix.vercel.app/).
+
 # Astro Starter Kit: Basics
 
 ```sh
